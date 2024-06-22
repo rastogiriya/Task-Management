@@ -1,6 +1,6 @@
-TAsk MAnagement Application
+# Task Management Application
 
-BuzzBuy is an ecommerce application that provides a user-friendly platform for online shopping. It offers secure payment gateways and admin tools for efficient management. Users can leave reviews and ratings for products.
+The Task Management Application is a web-based tool designed to help users efficiently manage their tasks. Built with a simple yet effective backend using Node.js and Express.js, and a user-friendly frontend using HTML, CSS, JavaScript, and Bootstrap, this application allows users to add, edit, view, and delete tasks.
 
 ## Technologies Used
 
